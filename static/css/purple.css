@@ -1,0 +1,19 @@
+:root{
+    --mainColor: #46344e;
+    --secondaryColor:#382a3f;
+
+    --borderColor: #1d1520;
+
+    --mainText:#fff;
+    --secondaryText: #eeeeee;
+
+    --font1: 'Cambay', sans-serif;
+    --font2: 'Poppins', sans-serif;
+    --font3: 'Roboto Serif', serif;
+
+    --themeDotBorder: #24292e;
+    --previewBg: rgb(29, 21, 32, 0.8);
+    --previewShadow: #2b202f; 
+
+    --buttonColor: #8534a3; 
+}
